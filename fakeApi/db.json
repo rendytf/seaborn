@@ -1,0 +1,294 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "phone": "085813183470",
+        "email": "rendytf@example.com",
+        "password": "foobarbaz"
+      },
+      {
+        "phone": "085717110310",
+        "email": "",
+        "password": "foobarbaz",
+        "id": 2
+      },
+      {
+        "phone": "081320227567",
+        "email": "",
+        "password": "12345",
+        "id": 3
+      },
+      {
+        "email": "budi@example.com",
+        "phone": "",
+        "password": "budi123",
+        "id": 4
+      },
+      {
+        "email": "seto@example.com",
+        "phone": "",
+        "password": "seto34",
+        "id": 5
+      },
+      {
+        "email": "sonyjamet@example.com",
+        "phone": "",
+        "password": "sony12",
+        "id": 6
+      },
+      {
+        "email": "samin@example.com",
+        "phone": "",
+        "password": "samin14",
+        "id": 7
+      },
+      {
+        "email": "fabian@example.com",
+        "phone": "",
+        "password": "fabian23",
+        "id": 8
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Simple Os Suede Shoes",
+        "price": 79.95,
+        "discount": 10,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/680220931294-1.jpg?v=1651621503",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/680220931294-2.jpg?v=1651621503",
+        "image_3": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/680220931294-3.jpg?v=1651621503",
+        "image_4": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/680220931294-4.jpg?v=1651621503",
+        "brand": "Simple",
+        "stock": 50
+      },
+      {
+        "id": 2,
+        "name": "Vans Skate Slip-on Shoes",
+        "price": 74.95,
+        "discount": 5,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/196012209019-1.jpg?v=1649809675",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/196012209019-2.jpg?v=1649809675",
+        "image_3": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/196012209019-3.jpg?v=1649809675",
+        "image_4": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/196012209019-4.jpg?v=1649809675",
+        "brand": "Vans",
+        "stock": 50
+      },
+      {
+        "id": 3,
+        "name": "Vans The Lizzie Shoes",
+        "price": 84.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/196013292065-1.jpg?v=1650487234",
+        "image_2": "",
+        "image_3": "",
+        "image_4": "",
+        "brand": "Vans",
+        "stock": 50
+      },
+      {
+        "id": 4,
+        "name": "New Balance 212 Shoes",
+        "price": 64.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195907741719-1.jpg?v=1649287344",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195907741719-2.jpg?v=1649287344",
+        "image_3": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195907741719-3.jpg?v=1649287344",
+        "image_4": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195907741719-4.jpg?v=1649287344",
+        "brand": "New Balance",
+        "stock": 50
+      },
+      {
+        "id": 5,
+        "name": "Adidas Busenitz Vulc II Shoes",
+        "price": 69.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193101577196-1.jpg?v=1614996592",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193101577196-2.jpg?v=1614996592",
+        "image_3": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193101577196-3.jpg?v=1614996592",
+        "image_4": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193101577196-4.jpg?v=1614996592",
+        "brand": "Adidas Skateboarding",
+        "stock": 50
+      },
+      {
+        "id": 6,
+        "name": "Emerica Tilt G6 Vulc Shoes",
+        "price": 69.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/194691207043-1.jpg?v=1647047164",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/194691207043-2.jpg?v=1647047164",
+        "image_3": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/194691207043-3.jpg?v=1647047164",
+        "image_4": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/194691207043-4.jpg?v=1647047164",
+        "brand": "Emerica",
+        "stock": 50
+      },
+      {
+        "id": 7,
+        "name": "Nike SB Nyjah Free 2.0 Shoes",
+        "price": 94.95,
+        "discount": 15,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195242334775-1.jpg?v=1651621415",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195242334775-2.jpg?v=1651621415",
+        "image_3": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195242334775-3.jpg?v=1651621415",
+        "image_4": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195242334775-4.jpg?v=1651621415",
+        "brand": "Nike SB",
+        "stock": 50
+      },
+      {
+        "id": 8,
+        "name": "Vans Wayvee Shoes",
+        "price": 84.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193390915686-1.jpg?v=1640199639",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193390915686-2.jpg?v=1640199639",
+        "image_3": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193390915686-3.jpg?v=1640199639",
+        "image_4": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193390915686-4.jpg?v=1640199639",
+        "brand": "Vans",
+        "stock": 50
+      },
+      {
+        "id": 9,
+        "name": "Nike SB Force 58 Shoes",
+        "price": 74.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195237074235-1.jpg?v=1649287348",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195237074235-2.jpg?v=1649287348",
+        "image_3": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195237074235-3.jpg?v=1649287348",
+        "image_4": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/195237074235-4.jpg?v=1649287348",
+        "brand": "Nike SB",
+        "stock": 50
+      },
+      {
+        "id": 10,
+        "name": "Lakai Flaco Ii Mid Shoes",
+        "price": 76.95,
+        "discount": 5,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/888401989236-1.jpg?v=1650055286",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/888401989236-2.jpg?v=1650055286",
+        "image_3": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/888401989236-3.jpg?v=1650055286",
+        "image_4": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/888401989236-4.jpg?v=1650055286",
+        "brand": "Lakai",
+        "stock": 50
+      },
+      {
+        "id": 11,
+        "name": "Shake Junt Get Off My Nuts T-Shirt",
+        "price": 34.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/BQ4AEFC-1.jpg?v=1651016291",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/BQ4AEFC-2.jpg?v=1651016291",
+        "image_3": "",
+        "image_4": "",
+        "brand": "Shake Junt",
+        "stock": 50
+      },
+      {
+        "id": 12,
+        "name": "Dickies Split Graphic T-Shirt",
+        "price": 24.95,
+        "discount": 15,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/889440864874-1.jpg?v=1648233248",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/889440864874-2.jpg?v=1648233248",
+        "image_3": "",
+        "image_4": "",
+        "brand": "Dickies",
+        "stock": 50
+      },
+      {
+        "id": 13,
+        "name": "Primitive Perez Shirt",
+        "price": 39.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/194942100130-1.jpg?v=1644539845",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/194942100130-2.jpg?v=1644539845",
+        "image_3": "",
+        "image_4": "",
+        "brand": "Primitive Apparel",
+        "stock": 50
+      },
+      {
+        "id": 14,
+        "name": "Roark Desierta Gonzo Shirt",
+        "price": 88.95,
+        "discount": 15,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193313115766-1.jpg?v=1647047330",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193313115766-2.jpg?v=1647047330",
+        "image_3": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193313115766-3.jpg?v=1647047330",
+        "image_4": "",
+        "brand": "Roark Revival",
+        "stock": 50
+      },
+      {
+        "id": 15,
+        "name": "Volcom Bloomin Shirt",
+        "price": 57.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193573926164-1.jpg?v=1647047455",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/193573926164-2.jpg?v=1647047455",
+        "image_3": "",
+        "image_4": "",
+        "brand": "Volcom Stone",
+        "stock": 50
+      },
+      {
+        "id": 16,
+        "name": "Poler Aloha Shirt",
+        "price": 39.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/840230609747-1.jpg?v=1648233328",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/840230609747-2.jpg?v=1648233328",
+        "image_3": "",
+        "image_4": "",
+        "brand": "Poler",
+        "stock": 50
+      },
+      {
+        "id": 17,
+        "name": "Spitfire Classic Vortex Hoodie",
+        "price": 59.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/888560265653-1.jpg?v=1647477345",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/888560265653-2.jpg?v=1647477345",
+        "image_3": "",
+        "image_4": "",
+        "brand": "Spitwire",
+        "stock": 50
+      },
+      {
+        "id": 18,
+        "name": "Vans Half Cab 30th Hoodie",
+        "price": 67.95,
+        "discount": 15,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/196014143335-1.jpg?v=1643334929",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/196014143335-2.jpg?v=1643334929",
+        "image_3": "",
+        "image_4": "",
+        "brand": "Vans",
+        "stock": 50
+      },
+      {
+        "id": 19,
+        "name": "Welcome Desire Hoodie",
+        "price": 79.95,
+        "discount": 0,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/BQ4840D-1.jpg?v=1648233456",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/BQ4840D-2.jpg?v=1648233456",
+        "image_3": "",
+        "image_4": "",
+        "brand": "Welcome Desire",
+        "stock": 50
+      },
+      {
+        "id": 20,
+        "name": "Spitfire Classic 87' Swirl Hoodie",
+        "price": 59.95,
+        "discount": 15,
+        "image_1": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/888560255432-1.jpg?v=1648233407",
+        "image_2": "https://cdn.shopify.com/s/files/1/0519/1388/3831/products/888560255432-2.jpg?v=1648233407",
+        "image_3": "",
+        "image_4": "",
+        "brand": "Spitwhire",
+        "stock": 50
+      }
+    ]
+  }
